@@ -1,3 +1,10 @@
+Sistema inspirado no ifood, possui as seguintes funcionalidades
+
+1- Listagem de produtos via webservice
+2- Filtro por categoria e busca
+3- Adicionar produtos e quantidades no carrinho
+4- Editar carrinho
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
